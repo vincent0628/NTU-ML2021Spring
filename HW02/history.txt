@@ -1,0 +1,9 @@
+self.dropout = nn.Dropout(0.2)
+Val Acc: 0.741296
+
+
+BATCH_SIZE = 1024
+Val Acc: 0.744
+
+BATCH_SIZE = 128
+Val Acc: 0.736
